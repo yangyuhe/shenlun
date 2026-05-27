@@ -24,4 +24,3 @@ node_modules/
 
 # 忽略AI Agent临时文件
 .pi-tavily-temp/
-.cursor/
