@@ -21,3 +21,7 @@ node_modules/
 # 忽略环境文件
 .env
 .env.local
+
+# 忽略AI Agent临时文件
+.pi-tavily-temp/
+.cursor/
